@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <hard_skills>QA_basics</hard_skills>
+  <hard_skills>HTTP_methods</hard_skills>
+  <hard_skills>Bash</hard_skills>
+  <hard_skills>Git</hard_skills>
+  <hard_skills>Postman</hard_skills>
+  <hard_skills>DevTools</hard_skills>
+  <hard_skills>SQL</hard_skills>
+  <soft_skills>time_management</soft_skills>
+  <soft_skills>adaptivity</soft_skills>
+  <soft_skills>collaboration</soft_skills>
+  <soft_skills>stress_management</soft_skills>
+  <soft_skills>mentoring</soft_skills>
+</root>
